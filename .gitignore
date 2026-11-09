@@ -1,0 +1,17 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+
+# Visual Studio temporary files
+*.cache
+
+# User-specific files
+*.rsuser
+
+# Secrets
+appsettings.Development.json
